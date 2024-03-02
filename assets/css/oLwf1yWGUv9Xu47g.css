@@ -1,0 +1,23 @@
+#emf-container-wrap {
+}
+
+#emf-container {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Verdana;
+  font-size: 13px;
+}
+
+#emf-captcha-top-settings {
+  background-color: #aad6aa;
+  color: #ffffff;
+}
+
+#emf-captcha-bottom-settings {
+  background-color: #e4f8e4;
+}
+
+#emf-captcha-input-settings,
+#emf-captcha-input-settings a {
+  color: #000000;
+}
